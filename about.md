@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Merhaba ben Edanur Uysal bilgisayar mühendisliği 2. sınıf öğrencisiyim.Bu benim ilk log yazım size bulut teknolojisinden biraz bahsetmet istedim.
+Merhaba ben Edanur Uysal bilgisayar mühendisliği 2. sınıf öğrencisiyim.Bu benim ilk blog yazım size bulut teknolojisinden biraz bahsetmet istedim.
 
 
 You can find the source code for Minima at GitHub:
