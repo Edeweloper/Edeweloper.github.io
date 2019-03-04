@@ -1,24 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Bulut Teknolojisi"
 date:   2019-03-04 12:24:11 +0300
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Bulut teknolojisi, hangi alanlarda kullanılır ve ne gibi avantajları vardır bunlardan bahsedeceğim. Bilindiği üzere artık büyük dosya boyutlarıyla işlemler yapıyoruz, gerek çalışma ortamımızda gerekse normal hayatımızda birçok video, fotoğraf vb gibi birçok verimizi telefonumuzda tabletimizde, bilgisayarımızda depoluyoruz. Ancak yeri geliyor kullandığımız cihazların kapasiteleri artık yetmiyor. Buradaki durumda imdadımıza cloud yani bulut teknolojisi yetişiyor. Gelin hep birlikte Cloud (Bulut) teknolojisi nedir? Detaylıca bir göz atalım;
+Bulut teknolojisi en yalın haliyle hiçbir kurulum gerektirmeyen web tabanlı uygulamalar ile işlemsel olarak kolaylık sunan online depolama hizmetidir.  İnternet üzerinde barındırdığımız tüm uygulama, program ve verilerimizin sanal bir makine üzerinde yani en çok kullanılan adıyla bulutta depolanması ile birlikte internete bağlı olduğumuz cihazımızda her lokasyon da bu bilgilere, programlara ve verilere kolaylıkla ulaşım sağlayabildiğimiz hizmetin tümüne bulut teknolojisi (cloud) adı verilmektedir.  Kullanıcılara iş ve günlük yaşamlarında kolaylık sağlayan ve donanımsal engellerden de kurtaran bulut tabanlı hizmetler hayatımıza gireli yaklaşık 3 yıl oldu ve online yaşamın vazgeçilmez öğelerinden birisi haline geldi.  Buluta erken adapte oluşumuzu, günlük hayatı kolaylaştırdığını belirtmemizden ötürü incelersek birçok uygulama marketinde Google Play, AppStore gibi birçok platformda bulut paylaşım uygulamaları yer alıyor.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
